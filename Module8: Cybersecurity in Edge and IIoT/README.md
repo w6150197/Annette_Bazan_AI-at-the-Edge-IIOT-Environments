@@ -1,1 +1,3 @@
 This module focuses on cybersecurity challenges and protection strategies in Edge AI and Industrial IoT (IIoT) environments. It explores how increasing connectivity in industrial systems exposes devices, networks, and data pipelines to cyber threats, particularly in operational technology (OT) environments. The module examines common vulnerabilities in IIoT systems, emerging attack trends, and regulatory responses aimed at improving IoT security. It also reviews countermeasures such as secure communication protocols, device authentication, and network hardening techniques to protect edge and industrial systems from cyberattacks.
+
+##Midterm project video:https://share.synthesia.io/995530e7-0b8e-4b74-8415-73a43bb7e6e3
