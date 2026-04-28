@@ -1,0 +1,3 @@
+This lab focuses on the process of building, training, converting, and deploying a simple AI model using TensorFlow Lite in a simulated edge environment. The main objective is to understand how machine learning models are developed using the MNIST dataset, then optimized and converted into a lightweight format suitable for edge devices. The lab demonstrates the full AI pipeline, including data preprocessing, neural network design, model training, TensorFlow Lite conversion, and inference using the TensorFlow Lite interpreter.
+
+Through this exercise, I gained hands-on experience with how AI models are prepared for deployment in resource-constrained environments, which is a key concept in Edge AI and IoT systems.
