@@ -1,2 +1,3 @@
 # Annette_Bazan_AI-at-the-Edge-IIOT-Environments
 ITAI 3377
+### This repository contains my individual learning portfolio for the course AI at the Edge & IIoT Environments. The course explores how Artificial Intelligence, Edge Computing, and Industrial Internet of Things (IIoT) systems work together to enable intelligent, real-time, and distributed decision-making across modern industrial and smart environments. Throughout this course, I developed an understanding of how data is collected from connected devices, processed at the edge, analyzed using AI techniques, and secured across distributed networks.
